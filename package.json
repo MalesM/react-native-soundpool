@@ -1,0 +1,24 @@
+{
+  "name": "react-native-soundpool",
+  "version": "1.0.1",
+  "description": "React Native Android bridge for SoundPool class",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalesM/react-native-soundpool.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "sound",
+    "soundpool",
+    "android"
+  ],
+  "author": "Marko Malesevic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MalesM/react-native-soundpool/issues"
+  },
+  "homepage": "https://github.com/MalesM/react-native-soundpool#readme"
+}
